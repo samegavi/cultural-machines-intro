@@ -1,6 +1,6 @@
 # Understanding Language Models
 
-A six-session course on large language models for the cultural and arts sector.
+A six-session course on large language models.
 
 See [00_README_Facilitator_Guide.md](00_README_Facilitator_Guide.md) for the full facilitator guide.
 

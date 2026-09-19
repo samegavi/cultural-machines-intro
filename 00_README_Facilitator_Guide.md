@@ -1,5 +1,5 @@
 # Understanding Language Models
-### A six-session course on large language models for the cultural and arts sector
+### A six-session course on large language models
 
 ## What's in this folder
 

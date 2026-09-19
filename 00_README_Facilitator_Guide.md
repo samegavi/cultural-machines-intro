@@ -1,5 +1,6 @@
-# Understanding Language Models
+# Cultural Machines: An Introduction
 ### A six-session course on large language models
+Based on Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (University of Minnesota Press, 2025).
 
 ## What's in this folder
 

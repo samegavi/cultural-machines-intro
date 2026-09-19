@@ -1,4 +1,4 @@
-# Understanding Language Models: A Course for the Arts
+# Understanding Language Models
 
 A six-session course on large language models for the cultural and arts sector.
 

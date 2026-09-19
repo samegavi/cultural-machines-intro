@@ -1,9 +1,9 @@
-# Understanding Language Models: A Course for the Arts
+# Understanding Language Models
 ### A six-session course on large language models for the cultural and arts sector
 
 ## What's in this folder
 
-| Notebook | Session | Core idea from the book | Main activity |
+| Notebook | Session | Core idea | Main activity |
 |---|---|---|---|
 | 01_What_an_LLM_Does | What a language model actually does | Machines capture genre and style before truth | Tokens, next-word odds, the "impossible news story" experiment |
 | 02_Words_Defined_by_Other_Words | Words defined by other words | Saussure's system of differences; the "ladder of reference" | Mapping arts vocabulary in embedding space |
@@ -33,7 +33,7 @@ which you can embed in a course platform, email or slide.
 
 ## Suggested session rhythm (90 minutes)
 
-1. **10 min** · Framing: the idea from the book, in your words, ideally with an example from the local arts scene.
+1. **10 min** · Framing: the session's idea, in your words, ideally with an example from the local arts scene.
 2. **50 min** · Work through the notebook in pairs. Pairing works much better than solo for people new to code.
 3. **25 min** · Group discussion using the questions at the end of each notebook.
 4. **5 min** · One sentence each: what will you notice differently this week?

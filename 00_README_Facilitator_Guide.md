@@ -12,6 +12,7 @@ Based on Leif Weatherby, *Language Machines: Cultural AI and the End of Remainde
 | 04_The_Poetic_Machine | Attention and the poetic function | Jakobson's poetic function; "general poetics" | Visualising attention; testing the pull of repetition and poetic forms |
 | 05_Packaged_Meaning | Defaults, clichés, ideology | Packaged semantics; ideology made measurable | Default scans, gender lean by arts role, the language "tax", cliché hunting |
 | 06_Language_as_a_Service | The future of cultural work | Language as a service; the return of rhetoric; the limits of "human-only" work | The new commonplaces, measuring your edits, mapping your job, closing debate |
+| 07_Bonus_Shannon_Redundancy | *Bonus* · Shannon and language as redundant pattern | Information theory; redundancy as a theory of meaning; Chomsky vs Shannon | The guessing game, approximations to English, measuring surprise with GPT-2, "whose English?" |
 
 Each notebook runs on its own. Participants need a free Google account and nothing else: no installation, no API keys, no payment.
 

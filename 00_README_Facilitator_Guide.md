@@ -1,6 +1,5 @@
-# Language Machines: How AI Writes Culture
+# Understanding Language Models: A Course for the Arts
 ### A six-session course on large language models for the cultural and arts sector
-Based on Leif Weatherby, *Language Machines: Cultural AI and the End of Remainder Humanism* (University of Minnesota Press, 2025)
 
 ## What's in this folder
 
@@ -11,7 +10,7 @@ Based on Leif Weatherby, *Language Machines: Cultural AI and the End of Remainde
 | 03_Why_It_Feels_Like_Someone_Is_There | The Eliza effect | Intelligence as simulacrum | Chatting with a 1966-style ELIZA, then a modern model with swappable personas |
 | 04_The_Poetic_Machine | Attention and the poetic function | Jakobson's poetic function; "general poetics" | Visualising attention; testing the pull of repetition and poetic forms |
 | 05_Packaged_Meaning | Defaults, clichés, ideology | Packaged semantics; ideology made measurable | Default scans, gender lean by arts role, the language "tax", cliché hunting |
-| 06_Language_as_a_Service | The future of cultural work | Language as a service; return of rhetoric; remainder humanism | The new commonplaces, measuring your edits, mapping your job, closing debate |
+| 06_Language_as_a_Service | The future of cultural work | Language as a service; the return of rhetoric; the limits of "human-only" work | The new commonplaces, measuring your edits, mapping your job, closing debate |
 
 Each notebook runs on its own. Participants need a free Google account and nothing else: no installation, no API keys, no payment.
 
@@ -41,10 +40,10 @@ which you can embed in a course platform, email or slide.
 
 For a two-day intensive, run sessions 1–3 on day one and 4–6 on day two.
 
-## On using the book
+## On the ideas in the course
 
-The notebooks paraphrase Weatherby's arguments rather than reproduce his text. The book itself is dense theory; most participants will not need to read it cover to cover. Good options: participants buy or borrow the book and read the Introduction plus one chapter per session, or the facilitator presents the argument and shares short excerpts in class. Please do not circulate unofficial copies of the book.
+The notebooks present their arguments in plain language rather than dense theory; most participants will not need any outside reading. The facilitator can introduce each session's idea in their own words, ideally with an example from the local arts scene.
 
 ## Keeping it balanced
 
-Weatherby's book is a polemic, especially against critics such as Noam Chomsky, Emily Bender and Timnit Gebru. The course is designed to let participants argue with it: Session 6 closes with a structured debate. Readings from the other side are listed at the end of the relevant notebooks.
+The course takes a deliberately provocative line about what language models mean for culture, including a critical view of some well-known sceptics such as Noam Chomsky, Emily Bender and Timnit Gebru. It is designed to let participants argue back: Session 6 closes with a structured debate, and readings from the other side are listed at the end of the relevant notebooks.

@@ -10,6 +10,7 @@ See [00_README_Facilitator_Guide.md](00_README_Facilitator_Guide.md) for the ful
 
 | # | Session | Open in Colab | View on GitHub |
 |---|---|---|---|
+| 00 | Before the Machine (lead session) | [Colab](https://colab.research.google.com/github/samegavi/cultural-machines-intro/blob/main/00_Before_the_Machine.ipynb) | [GitHub](00_Before_the_Machine.ipynb) |
 | 01 | What an LLM Does | [Colab](https://colab.research.google.com/github/samegavi/cultural-machines-intro/blob/main/01_What_an_LLM_Does.ipynb) | [GitHub](01_What_an_LLM_Does.ipynb) |
 | 02 | Words Defined by Other Words | [Colab](https://colab.research.google.com/github/samegavi/cultural-machines-intro/blob/main/02_Words_Defined_by_Other_Words.ipynb) | [GitHub](02_Words_Defined_by_Other_Words.ipynb) |
 | 03 | Why It Feels Like Someone Is There | [Colab](https://colab.research.google.com/github/samegavi/cultural-machines-intro/blob/main/03_Why_It_Feels_Like_Someone_Is_There.ipynb) | [GitHub](03_Why_It_Feels_Like_Someone_Is_There.ipynb) |

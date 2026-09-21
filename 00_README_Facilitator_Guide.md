@@ -6,6 +6,7 @@ Based on Leif Weatherby, *Language Machines: Cultural AI and the End of Remainde
 
 | Notebook | Session | Core idea | Main activity |
 |---|---|---|---|
+| 00_Before_the_Machine | *Lead* · Before the machine: structure without a subject | Meaning as a self-organising system (Saussure, Jakobson); the maths parallel (Pourciau) | Sorting statements, Saussure's chess, the zero, numbers from nothing, turning the word-map |
 | 01_What_an_LLM_Does | What a language model actually does | Machines capture genre and style before truth | Tokens, next-word odds, the "impossible news story" experiment |
 | 02_Words_Defined_by_Other_Words | Words defined by other words | Saussure's system of differences; the "ladder of reference" | Mapping arts vocabulary in embedding space |
 | 03_Why_It_Feels_Like_Someone_Is_There | The Eliza effect | Intelligence as simulacrum | Chatting with a 1966-style ELIZA, then a modern model with swappable personas |
